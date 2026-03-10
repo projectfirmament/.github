@@ -31,6 +31,3 @@ A 7-node Mac Mini M4 cluster connected via Tailscale, where each machine runs a 
 | **Ignite** | Department | Marketing & Growth |
 | **Habano** | Department | Operations & Deployment |
 
-## Built by
-
-**XIS Labs** — Faizan + Abdul Ahad
